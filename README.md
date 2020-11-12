@@ -11,3 +11,4 @@ Arrrows - movement\
 E - plant bomb\
 P - pause\
 Esc - menu\
+RMB (in menu) - choose button
