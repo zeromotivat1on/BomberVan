@@ -4,11 +4,4 @@ Our dream team:\
 https://github.com/n0na7773 \
 https://github.com/ChausAnton \
 https://github.com/Natsu67 \
-and me.\
-In order to play, just type 'make' in terminal, while you in game repository, and then open the endgame file - type './endgame'.\
-As we didn't implement menu controls button, there is game controls special for you:\
-Arrrows - movement\
-E - plant bomb\
-P - pause\
-Esc - menu\
-RMB (in menu) - click on button
+and me.
